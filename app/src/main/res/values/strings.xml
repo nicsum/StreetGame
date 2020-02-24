@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">StreetGame</string>
+
+    <string name="username">Никнейм</string>
+    <string name="enter">Войти</string>
+
+    <string name="play">Играть</string>
+    <string name="records">Рекорды</string>
+
+    <string name="post">POST</string>
 </resources>
