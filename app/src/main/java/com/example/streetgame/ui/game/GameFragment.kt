@@ -45,7 +45,7 @@ class GameFragment : Fragment(){
         super.onDestroy()
     }
 
-    private fun postRecord(score: Int){
+        private fun postRecord(score: Int){
         val service = createStreetGameService()
         val username = getUsername() ?: return
 
